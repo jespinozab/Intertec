@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodeChallengeConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "it was many and many a year ago"
+    }
+  }
+}
